@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://e0.pxfuel.com/wallpapers/722/859/desktop-wallpaper-blue-gradient.jpg);
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-papel-tapiz-colorido-borroso-artistico_58702-8178.jpg?size=626&ext=jpg&ga=GA1.1.1488620777.1708128000&semt=ais);
     width: 100vw;
     height: 100vh;
     background-repeat: no-repeat;
@@ -7,6 +7,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: light;
 
 }
 .card {
@@ -37,8 +40,8 @@ body {
     border-radius: 50%;
 }
 .button{
-    background: rgb(73,108,166);
-    background: linear-gradient(90deg, rgba(73,108,166,1) 0%, rgba(56,87,128,1) 36%, rgba(64,45,96,1) 59%, rgba(65,120,143,1) 74%, rgba(21,38,48,1) 100%);
+    background: rgb(147,36,161);
+    background: linear-gradient(139deg, rgba(147,36,161,1) 21%, rgba(88,49,164,1) 43%, rgba(17,43,158,1) 89%);
     width: 15vw;
     height: 5vh;
     border-radius: 10px;
